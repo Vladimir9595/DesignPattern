@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vladi\\Documents\\Developpement\\CNAM\\DesignPattern\\CarConstruction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F59B463-4512-4D66-B549-E3F6B728260F}|CarConstruction\\CarConstruction.csproj|c:\\users\\vladi\\documents\\developpement\\cnam\\designpattern\\carconstruction\\carconstruction\\icar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F59B463-4512-4D66-B549-E3F6B728260F}|CarConstruction\\CarConstruction.csproj|solutionrelative:carconstruction\\icar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F59B463-4512-4D66-B549-E3F6B728260F}|CarConstruction\\CarConstruction.csproj|c:\\users\\vladi\\documents\\developpement\\cnam\\designpattern\\carconstruction\\carconstruction\\flyingcardecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F59B463-4512-4D66-B549-E3F6B728260F}|CarConstruction\\CarConstruction.csproj|solutionrelative:carconstruction\\flyingcardecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F59B463-4512-4D66-B549-E3F6B728260F}|CarConstruction\\CarConstruction.csproj|c:\\users\\vladi\\documents\\developpement\\cnam\\designpattern\\carconstruction\\carconstruction\\floatingcardecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F59B463-4512-4D66-B549-E3F6B728260F}|CarConstruction\\CarConstruction.csproj|solutionrelative:carconstruction\\floatingcardecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F59B463-4512-4D66-B549-E3F6B728260F}|CarConstruction\\CarConstruction.csproj|c:\\users\\vladi\\documents\\developpement\\cnam\\designpattern\\carconstruction\\carconstruction\\cardecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F59B463-4512-4D66-B549-E3F6B728260F}|CarConstruction\\CarConstruction.csproj|solutionrelative:carconstruction\\cardecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F59B463-4512-4D66-B549-E3F6B728260F}|CarConstruction\\CarConstruction.csproj|c:\\users\\vladi\\documents\\developpement\\cnam\\designpattern\\carconstruction\\carconstruction\\basiccar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F59B463-4512-4D66-B549-E3F6B728260F}|CarConstruction\\CarConstruction.csproj|solutionrelative:carconstruction\\basiccar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F59B463-4512-4D66-B549-E3F6B728260F}|CarConstruction\\CarConstruction.csproj|c:\\users\\vladi\\documents\\developpement\\cnam\\designpattern\\carconstruction\\carconstruction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F59B463-4512-4D66-B549-E3F6B728260F}|CarConstruction\\CarConstruction.csproj|solutionrelative:carconstruction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ICar.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\Documents\\Developpement\\CNAM\\DesignPattern\\CarConstruction\\CarConstruction\\ICar.cs",
+              "RelativeDocumentMoniker": "CarConstruction\\ICar.cs",
+              "ToolTip": "C:\\Users\\vladi\\Documents\\Developpement\\CNAM\\DesignPattern\\CarConstruction\\CarConstruction\\ICar.cs",
+              "RelativeToolTip": "CarConstruction\\ICar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:41:37.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FlyingCarDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\Documents\\Developpement\\CNAM\\DesignPattern\\CarConstruction\\CarConstruction\\FlyingCarDecorator.cs",
+              "RelativeDocumentMoniker": "CarConstruction\\FlyingCarDecorator.cs",
+              "ToolTip": "C:\\Users\\vladi\\Documents\\Developpement\\CNAM\\DesignPattern\\CarConstruction\\CarConstruction\\FlyingCarDecorator.cs",
+              "RelativeToolTip": "CarConstruction\\FlyingCarDecorator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:41:37.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FloatingCarDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\Documents\\Developpement\\CNAM\\DesignPattern\\CarConstruction\\CarConstruction\\FloatingCarDecorator.cs",
+              "RelativeDocumentMoniker": "CarConstruction\\FloatingCarDecorator.cs",
+              "ToolTip": "C:\\Users\\vladi\\Documents\\Developpement\\CNAM\\DesignPattern\\CarConstruction\\CarConstruction\\FloatingCarDecorator.cs",
+              "RelativeToolTip": "CarConstruction\\FloatingCarDecorator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:41:36.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\Documents\\Developpement\\CNAM\\DesignPattern\\CarConstruction\\CarConstruction\\CarDecorator.cs",
+              "RelativeDocumentMoniker": "CarConstruction\\CarDecorator.cs",
+              "ToolTip": "C:\\Users\\vladi\\Documents\\Developpement\\CNAM\\DesignPattern\\CarConstruction\\CarConstruction\\CarDecorator.cs",
+              "RelativeToolTip": "CarConstruction\\CarDecorator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:41:35.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BasicCar.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\Documents\\Developpement\\CNAM\\DesignPattern\\CarConstruction\\CarConstruction\\BasicCar.cs",
+              "RelativeDocumentMoniker": "CarConstruction\\BasicCar.cs",
+              "ToolTip": "C:\\Users\\vladi\\Documents\\Developpement\\CNAM\\DesignPattern\\CarConstruction\\CarConstruction\\BasicCar.cs",
+              "RelativeToolTip": "CarConstruction\\BasicCar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:41:34.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\Documents\\Developpement\\CNAM\\DesignPattern\\CarConstruction\\CarConstruction\\Program.cs",
+              "RelativeDocumentMoniker": "CarConstruction\\Program.cs",
+              "ToolTip": "C:\\Users\\vladi\\Documents\\Developpement\\CNAM\\DesignPattern\\CarConstruction\\CarConstruction\\Program.cs",
+              "RelativeToolTip": "CarConstruction\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:34:14.262Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

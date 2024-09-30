@@ -1,0 +1,15 @@
+C:\Users\vladi\Documents\Developpement\CNAM\DesignPattern\CarConstruction\CarConstruction\bin\Debug\net8.0\CarConstruction.exe
+C:\Users\vladi\Documents\Developpement\CNAM\DesignPattern\CarConstruction\CarConstruction\bin\Debug\net8.0\CarConstruction.deps.json
+C:\Users\vladi\Documents\Developpement\CNAM\DesignPattern\CarConstruction\CarConstruction\bin\Debug\net8.0\CarConstruction.runtimeconfig.json
+C:\Users\vladi\Documents\Developpement\CNAM\DesignPattern\CarConstruction\CarConstruction\bin\Debug\net8.0\CarConstruction.dll
+C:\Users\vladi\Documents\Developpement\CNAM\DesignPattern\CarConstruction\CarConstruction\bin\Debug\net8.0\CarConstruction.pdb
+C:\Users\vladi\Documents\Developpement\CNAM\DesignPattern\CarConstruction\CarConstruction\obj\Debug\net8.0\CarConstruction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladi\Documents\Developpement\CNAM\DesignPattern\CarConstruction\CarConstruction\obj\Debug\net8.0\CarConstruction.AssemblyInfoInputs.cache
+C:\Users\vladi\Documents\Developpement\CNAM\DesignPattern\CarConstruction\CarConstruction\obj\Debug\net8.0\CarConstruction.AssemblyInfo.cs
+C:\Users\vladi\Documents\Developpement\CNAM\DesignPattern\CarConstruction\CarConstruction\obj\Debug\net8.0\CarConstruction.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Documents\Developpement\CNAM\DesignPattern\CarConstruction\CarConstruction\obj\Debug\net8.0\CarConstruction.sourcelink.json
+C:\Users\vladi\Documents\Developpement\CNAM\DesignPattern\CarConstruction\CarConstruction\obj\Debug\net8.0\CarConstruction.dll
+C:\Users\vladi\Documents\Developpement\CNAM\DesignPattern\CarConstruction\CarConstruction\obj\Debug\net8.0\refint\CarConstruction.dll
+C:\Users\vladi\Documents\Developpement\CNAM\DesignPattern\CarConstruction\CarConstruction\obj\Debug\net8.0\CarConstruction.pdb
+C:\Users\vladi\Documents\Developpement\CNAM\DesignPattern\CarConstruction\CarConstruction\obj\Debug\net8.0\CarConstruction.genruntimeconfig.cache
+C:\Users\vladi\Documents\Developpement\CNAM\DesignPattern\CarConstruction\CarConstruction\obj\Debug\net8.0\ref\CarConstruction.dll
