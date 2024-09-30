@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vladi\\Documents\\Developpement\\CNAM\\DesignPattern\\CloneCat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB29516E-2EF0-4EB3-8396-7D895222CF89}|CloneCat\\CloneCat.csproj|c:\\users\\vladi\\documents\\developpement\\cnam\\designpattern\\clonecat\\clonecat\\catarmy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB29516E-2EF0-4EB3-8396-7D895222CF89}|CloneCat\\CloneCat.csproj|solutionrelative:clonecat\\catarmy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB29516E-2EF0-4EB3-8396-7D895222CF89}|CloneCat\\CloneCat.csproj|c:\\users\\vladi\\documents\\developpement\\cnam\\designpattern\\clonecat\\clonecat\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB29516E-2EF0-4EB3-8396-7D895222CF89}|CloneCat\\CloneCat.csproj|solutionrelative:clonecat\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB29516E-2EF0-4EB3-8396-7D895222CF89}|CloneCat\\CloneCat.csproj|c:\\users\\vladi\\documents\\developpement\\cnam\\designpattern\\clonecat\\clonecat\\iprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB29516E-2EF0-4EB3-8396-7D895222CF89}|CloneCat\\CloneCat.csproj|solutionrelative:clonecat\\iprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB29516E-2EF0-4EB3-8396-7D895222CF89}|CloneCat\\CloneCat.csproj|c:\\users\\vladi\\documents\\developpement\\cnam\\designpattern\\clonecat\\clonecat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB29516E-2EF0-4EB3-8396-7D895222CF89}|CloneCat\\CloneCat.csproj|solutionrelative:clonecat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPrototype.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\Documents\\Developpement\\CNAM\\DesignPattern\\CloneCat\\CloneCat\\IPrototype.cs",
+              "RelativeDocumentMoniker": "CloneCat\\IPrototype.cs",
+              "ToolTip": "C:\\Users\\vladi\\Documents\\Developpement\\CNAM\\DesignPattern\\CloneCat\\CloneCat\\IPrototype.cs",
+              "RelativeToolTip": "CloneCat\\IPrototype.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:21:43.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CatArmy.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\Documents\\Developpement\\CNAM\\DesignPattern\\CloneCat\\CloneCat\\CatArmy.cs",
+              "RelativeDocumentMoniker": "CloneCat\\CatArmy.cs",
+              "ToolTip": "C:\\Users\\vladi\\Documents\\Developpement\\CNAM\\DesignPattern\\CloneCat\\CloneCat\\CatArmy.cs",
+              "RelativeToolTip": "CloneCat\\CatArmy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:21:42.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\Documents\\Developpement\\CNAM\\DesignPattern\\CloneCat\\CloneCat\\Cat.cs",
+              "RelativeDocumentMoniker": "CloneCat\\Cat.cs",
+              "ToolTip": "C:\\Users\\vladi\\Documents\\Developpement\\CNAM\\DesignPattern\\CloneCat\\CloneCat\\Cat.cs",
+              "RelativeToolTip": "CloneCat\\Cat.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwBUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:21:41.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\Documents\\Developpement\\CNAM\\DesignPattern\\CloneCat\\CloneCat\\Program.cs",
+              "RelativeDocumentMoniker": "CloneCat\\Program.cs",
+              "ToolTip": "C:\\Users\\vladi\\Documents\\Developpement\\CNAM\\DesignPattern\\CloneCat\\CloneCat\\Program.cs",
+              "RelativeToolTip": "CloneCat\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:17:53.958Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vladi\\Documents\\Developpement\\CNAM\\DesignPattern\\FruitSalade\\FruitSalade\\FruitSalade.csproj",
-      "projectName": "FruitSalade",
-      "projectPath": "C:\\Users\\vladi\\Documents\\Developpement\\CNAM\\DesignPattern\\FruitSalade\\FruitSalade\\FruitSalade.csproj",
+      "projectUniqueName": "C:\\Users\\vladi\\Documents\\Developpement\\CNAM\\DesignPattern\\CloneCat\\CloneCat\\CloneCat.csproj",
+      "projectName": "CloneCat",
+      "projectPath": "C:\\Users\\vladi\\Documents\\Developpement\\CNAM\\DesignPattern\\CloneCat\\CloneCat\\CloneCat.csproj",
       "packagesPath": "C:\\Users\\vladi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vladi\\Documents\\Developpement\\CNAM\\DesignPattern\\FruitSalade\\FruitSalade\\obj\\",
+      "outputPath": "C:\\Users\\vladi\\Documents\\Developpement\\CNAM\\DesignPattern\\CloneCat\\CloneCat\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vladi\\AppData\\Roaming\\NuGet\\NuGet.Config",

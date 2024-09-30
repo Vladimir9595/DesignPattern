@@ -1,0 +1,15 @@
+C:\Users\vladi\Documents\Developpement\CNAM\DesignPattern\CloneCat\CloneCat\bin\Debug\net8.0\CloneCat.exe
+C:\Users\vladi\Documents\Developpement\CNAM\DesignPattern\CloneCat\CloneCat\bin\Debug\net8.0\CloneCat.deps.json
+C:\Users\vladi\Documents\Developpement\CNAM\DesignPattern\CloneCat\CloneCat\bin\Debug\net8.0\CloneCat.runtimeconfig.json
+C:\Users\vladi\Documents\Developpement\CNAM\DesignPattern\CloneCat\CloneCat\bin\Debug\net8.0\CloneCat.dll
+C:\Users\vladi\Documents\Developpement\CNAM\DesignPattern\CloneCat\CloneCat\bin\Debug\net8.0\CloneCat.pdb
+C:\Users\vladi\Documents\Developpement\CNAM\DesignPattern\CloneCat\CloneCat\obj\Debug\net8.0\CloneCat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladi\Documents\Developpement\CNAM\DesignPattern\CloneCat\CloneCat\obj\Debug\net8.0\CloneCat.AssemblyInfoInputs.cache
+C:\Users\vladi\Documents\Developpement\CNAM\DesignPattern\CloneCat\CloneCat\obj\Debug\net8.0\CloneCat.AssemblyInfo.cs
+C:\Users\vladi\Documents\Developpement\CNAM\DesignPattern\CloneCat\CloneCat\obj\Debug\net8.0\CloneCat.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Documents\Developpement\CNAM\DesignPattern\CloneCat\CloneCat\obj\Debug\net8.0\CloneCat.sourcelink.json
+C:\Users\vladi\Documents\Developpement\CNAM\DesignPattern\CloneCat\CloneCat\obj\Debug\net8.0\CloneCat.dll
+C:\Users\vladi\Documents\Developpement\CNAM\DesignPattern\CloneCat\CloneCat\obj\Debug\net8.0\refint\CloneCat.dll
+C:\Users\vladi\Documents\Developpement\CNAM\DesignPattern\CloneCat\CloneCat\obj\Debug\net8.0\CloneCat.pdb
+C:\Users\vladi\Documents\Developpement\CNAM\DesignPattern\CloneCat\CloneCat\obj\Debug\net8.0\CloneCat.genruntimeconfig.cache
+C:\Users\vladi\Documents\Developpement\CNAM\DesignPattern\CloneCat\CloneCat\obj\Debug\net8.0\ref\CloneCat.dll
