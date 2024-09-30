@@ -10,6 +10,7 @@
       alt="PatternFactory"
     />
   </a>
+  
 - Code of the exercise folder [FruitSalade](./FruitSalade/).
 
 ## Exercise 2: 
@@ -23,3 +24,19 @@
   </a>
 
 - Code of the exercise folder [CloneCat](./CloneCat/).
+
+## Exercise 3: 
+- Model the construction of a car. The car can fly or float on water. There are only two components requiring modeling, the others being basic. 
+	- There's a specific propulsion system for water or air. 
+	- There is a navigation system specific to water or air. 
+The design pattern to use is the Decorator Pattern. 
+- UML Diagram 
+<a href="./Images/Ex3_Car_Construction.png" target="_blank" rel="noreferrer">
+    <img
+      src="./Images/Ex3_Car_Construction.png"
+      alt="PatternDecorator"
+    />
+  </a>
+
+- Code of the exercise folder [CarConstruction](./CarConstruction/).
+
