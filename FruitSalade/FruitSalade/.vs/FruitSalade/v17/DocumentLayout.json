@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vladi\\Documents\\Developpement\\CNAM\\DesignPattern\\FruitSalade\\FruitSalade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vladi\\Documents\\Developpement\\CNAM\\DesignPattern\\FruitSalade\\FruitSalade\\SeasonalFruitSalad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SeasonalFruitSalad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vladi\\Documents\\Developpement\\CNAM\\DesignPattern\\FruitSalade\\FruitSalade\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vladi\\Documents\\Developpement\\CNAM\\DesignPattern\\FruitSalade\\FruitSalade\\Kiwi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Kiwi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vladi\\Documents\\Developpement\\CNAM\\DesignPattern\\FruitSalade\\FruitSalade\\Apple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Apple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vladi\\Documents\\Developpement\\CNAM\\DesignPattern\\FruitSalade\\FruitSalade\\Banana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Banana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vladi\\Documents\\Developpement\\CNAM\\DesignPattern\\FruitSalade\\FruitSalade\\Fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vladi\\Documents\\Developpement\\CNAM\\DesignPattern\\FruitSalade\\FruitSalade\\FruitSalad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FruitSalad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vladi\\Documents\\Developpement\\CNAM\\DesignPattern\\FruitSalade\\FruitSalade\\FruitSaladFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FruitSaladFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vladi\\Documents\\Developpement\\CNAM\\DesignPattern\\FruitSalade\\FruitSalade\\Season.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Season.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\Documents\\Developpement\\CNAM\\DesignPattern\\FruitSalade\\FruitSalade\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\vladi\\Documents\\Developpement\\CNAM\\DesignPattern\\FruitSalade\\FruitSalade\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:58:10.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SeasonalFruitSalad.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\Documents\\Developpement\\CNAM\\DesignPattern\\FruitSalade\\FruitSalade\\SeasonalFruitSalad.cs",
+              "RelativeDocumentMoniker": "SeasonalFruitSalad.cs",
+              "ToolTip": "C:\\Users\\vladi\\Documents\\Developpement\\CNAM\\DesignPattern\\FruitSalade\\FruitSalade\\SeasonalFruitSalad.cs",
+              "RelativeToolTip": "SeasonalFruitSalad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:13:58.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Season.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\Documents\\Developpement\\CNAM\\DesignPattern\\FruitSalade\\FruitSalade\\Season.cs",
+              "RelativeDocumentMoniker": "Season.cs",
+              "ToolTip": "C:\\Users\\vladi\\Documents\\Developpement\\CNAM\\DesignPattern\\FruitSalade\\FruitSalade\\Season.cs",
+              "RelativeToolTip": "Season.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:13:57.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FruitSaladFactory.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\Documents\\Developpement\\CNAM\\DesignPattern\\FruitSalade\\FruitSalade\\FruitSaladFactory.cs",
+              "RelativeDocumentMoniker": "FruitSaladFactory.cs",
+              "ToolTip": "C:\\Users\\vladi\\Documents\\Developpement\\CNAM\\DesignPattern\\FruitSalade\\FruitSalade\\FruitSaladFactory.cs",
+              "RelativeToolTip": "FruitSaladFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:13:55.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FruitSalad.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\Documents\\Developpement\\CNAM\\DesignPattern\\FruitSalade\\FruitSalade\\FruitSalad.cs",
+              "RelativeDocumentMoniker": "FruitSalad.cs",
+              "ToolTip": "C:\\Users\\vladi\\Documents\\Developpement\\CNAM\\DesignPattern\\FruitSalade\\FruitSalade\\FruitSalad.cs",
+              "RelativeToolTip": "FruitSalad.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:13:49.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Fruit.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\Documents\\Developpement\\CNAM\\DesignPattern\\FruitSalade\\FruitSalade\\Fruit.cs",
+              "RelativeDocumentMoniker": "Fruit.cs",
+              "ToolTip": "C:\\Users\\vladi\\Documents\\Developpement\\CNAM\\DesignPattern\\FruitSalade\\FruitSalade\\Fruit.cs",
+              "RelativeToolTip": "Fruit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:13:48.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Banana.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\Documents\\Developpement\\CNAM\\DesignPattern\\FruitSalade\\FruitSalade\\Banana.cs",
+              "RelativeDocumentMoniker": "Banana.cs",
+              "ToolTip": "C:\\Users\\vladi\\Documents\\Developpement\\CNAM\\DesignPattern\\FruitSalade\\FruitSalade\\Banana.cs",
+              "RelativeToolTip": "Banana.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAADwvxAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:13:47.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Apple.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\Documents\\Developpement\\CNAM\\DesignPattern\\FruitSalade\\FruitSalade\\Apple.cs",
+              "RelativeDocumentMoniker": "Apple.cs",
+              "ToolTip": "C:\\Users\\vladi\\Documents\\Developpement\\CNAM\\DesignPattern\\FruitSalade\\FruitSalade\\Apple.cs",
+              "RelativeToolTip": "Apple.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAADwvxAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:13:44.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kiwi.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\Documents\\Developpement\\CNAM\\DesignPattern\\FruitSalade\\FruitSalade\\Kiwi.cs",
+              "RelativeDocumentMoniker": "Kiwi.cs",
+              "ToolTip": "C:\\Users\\vladi\\Documents\\Developpement\\CNAM\\DesignPattern\\FruitSalade\\FruitSalade\\Kiwi.cs",
+              "RelativeToolTip": "Kiwi.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAADwvxAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:13:56.12Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
