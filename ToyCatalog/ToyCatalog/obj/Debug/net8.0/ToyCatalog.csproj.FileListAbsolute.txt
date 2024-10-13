@@ -1,0 +1,15 @@
+C:\Users\vladi\Documents\Developpement\CNAM\DesignPattern\ToyCatalog\ToyCatalog\obj\Debug\net8.0\ToyCatalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladi\Documents\Developpement\CNAM\DesignPattern\ToyCatalog\ToyCatalog\obj\Debug\net8.0\ToyCatalog.AssemblyInfoInputs.cache
+C:\Users\vladi\Documents\Developpement\CNAM\DesignPattern\ToyCatalog\ToyCatalog\obj\Debug\net8.0\ToyCatalog.AssemblyInfo.cs
+C:\Users\vladi\Documents\Developpement\CNAM\DesignPattern\ToyCatalog\ToyCatalog\obj\Debug\net8.0\ToyCatalog.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Documents\Developpement\CNAM\DesignPattern\ToyCatalog\ToyCatalog\obj\Debug\net8.0\ToyCatalog.sourcelink.json
+C:\Users\vladi\Documents\Developpement\CNAM\DesignPattern\ToyCatalog\ToyCatalog\bin\Debug\net8.0\ToyCatalog.exe
+C:\Users\vladi\Documents\Developpement\CNAM\DesignPattern\ToyCatalog\ToyCatalog\bin\Debug\net8.0\ToyCatalog.deps.json
+C:\Users\vladi\Documents\Developpement\CNAM\DesignPattern\ToyCatalog\ToyCatalog\bin\Debug\net8.0\ToyCatalog.runtimeconfig.json
+C:\Users\vladi\Documents\Developpement\CNAM\DesignPattern\ToyCatalog\ToyCatalog\bin\Debug\net8.0\ToyCatalog.dll
+C:\Users\vladi\Documents\Developpement\CNAM\DesignPattern\ToyCatalog\ToyCatalog\bin\Debug\net8.0\ToyCatalog.pdb
+C:\Users\vladi\Documents\Developpement\CNAM\DesignPattern\ToyCatalog\ToyCatalog\obj\Debug\net8.0\ToyCatalog.dll
+C:\Users\vladi\Documents\Developpement\CNAM\DesignPattern\ToyCatalog\ToyCatalog\obj\Debug\net8.0\refint\ToyCatalog.dll
+C:\Users\vladi\Documents\Developpement\CNAM\DesignPattern\ToyCatalog\ToyCatalog\obj\Debug\net8.0\ToyCatalog.pdb
+C:\Users\vladi\Documents\Developpement\CNAM\DesignPattern\ToyCatalog\ToyCatalog\obj\Debug\net8.0\ToyCatalog.genruntimeconfig.cache
+C:\Users\vladi\Documents\Developpement\CNAM\DesignPattern\ToyCatalog\ToyCatalog\obj\Debug\net8.0\ref\ToyCatalog.dll
